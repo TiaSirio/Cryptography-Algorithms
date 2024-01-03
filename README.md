@@ -1,21 +1,24 @@
-# Cryptographic Projects in Excel VBA
+# Cryptographic Projects in Excel VBA 🔐
 
-## Introduction
+## Overview 🌐
 
-This repository contains four small cryptographic projects implemented as Excel VBA macros. Each project implements a different cryptographic algorithm and can be used to perform a specific cryptographic operation. The four algorithms implemented are:
+This repository features four cryptographic projects implemented as Excel VBA macros, each showcasing a different cryptographic algorithm for specific cryptographic operations.
 
-## Modular Power Elevation without Overflow
+## Cryptographic Algorithms Implemented 🛡️
 
-This algorithm is used to calculate the value of a large number raised to a large power modulo another large number, without overflowing the intermediate calculations.
+1. **Modular Power Elevation without Overflow**
+   - Calculates a large number raised to a large power modulo another large number without overflowing intermediate calculations.
 
-## Prime Numbers
+2. **Prime Numbers**
+   - Checks whether a given number is prime or not.
 
-This algorithm is used to check whether a given number is prime or not.
+3. **Euclid Extended**
+   - Finds the greatest common divisor (GCD) of two integers.
+   - Computes coefficients for Bezout's identity, useful for solving linear Diophantine equations.
 
-## Euclid Extended
+4. **Baby Step Giant Step**
+   - Solves the discrete logarithm problem, a fundamental challenge in cryptography.
 
-This algorithm is used to find the greatest common divisor (GCD) of two integers and also to compute the coefficients of Bezout's identity, which are used in solving linear Diophantine equations.
+## Author 👨‍💻
 
-## Baby Step Giant Step
-
-This algorithm is used to solve the discrete logarithm problem, which is a fundamental problem in cryptography.
+- Mattia Siriani
