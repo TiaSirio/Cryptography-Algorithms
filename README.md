@@ -19,6 +19,10 @@ This repository features four cryptographic projects implemented as Excel VBA ma
 4. **Baby Step Giant Step**
    - Solves the discrete logarithm problem, a fundamental challenge in cryptography.
 
+## University Course 📖
+
+This is the final project of the exam "Crittografia" for the Computer Science and Engineering degree at Polytechnic of Milano.
+
 ## Author 👨‍💻
 
 - Mattia Siriani
