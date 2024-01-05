@@ -21,8 +21,8 @@ This repository features four cryptographic projects implemented as Excel VBA ma
 
 ## University Course 📖
 
-This is the final project of the exam "Crittografia" for the Computer Science and Engineering degree at Polytechnic of Milano.
+This is the final project of the exam "Sicurezza Informatica" for the Computer Science and Engineering degree at Polytechnic of Milano.
 
 ## Author 👨‍💻
 
-- Mattia Siriani
+- [TiaSirio](https://www.github.com/TiaSirio)
